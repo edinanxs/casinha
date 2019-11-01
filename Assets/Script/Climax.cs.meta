@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: f1d8c76bad04545478f059b33847d28a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - btnItens1: {instanceID: 0}
+  - btnItens2: {instanceID: 0}
+  - btnItens3: {instanceID: 0}
+  - btnItens4: {instanceID: 0}
+  - btnItens5: {instanceID: 0}
+  - btnItens6: {instanceID: 0}
+  - btnItens7: {instanceID: 0}
+  - btnArray1: {instanceID: 0}
+  - btnArray2: {instanceID: 0}
+  - btnArray3: {instanceID: 0}
+  - btnArray4: {instanceID: 0}
+  - btnArray5: {instanceID: 0}
+  - btnArray6: {instanceID: 0}
+  - btnArray7: {instanceID: 0}
+  - btnRolarTopo: {instanceID: 0}
+  - btnRolarBaixo: {instanceID: 0}
+  - Default: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  - fundo: {instanceID: 0}
+  - prefab: {instanceID: 0}
+  - titulo: {instanceID: 0}
+  - alert: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
